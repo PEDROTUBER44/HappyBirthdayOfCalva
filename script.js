@@ -7,7 +7,7 @@
         hh = h / 2,
 
         opts = {
-            strings: ['HAPPY', 'BIRTHDAY!', 'YASMIN', "CALVA"],
+            strings: ['HAPPY', 'BIRTHDAY!', 'YASMIN', "SUA", "CALVA"],
             charSize: 30,
             charSpacing: 35,
             lineHeight: 40,
